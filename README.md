@@ -2,5 +2,3 @@
 This is my 1st Git Repository
 <br>
 Author - Aarya Deshpande
-<br>
-github is something else!!
